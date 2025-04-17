@@ -1,4 +1,4 @@
-# ☕ Pixel Timer – Application de minuteurs en pixel art 🎨
+# ☕ Tea Timer – Application de minuteurs en pixel art 🎨
 
 Bienvenue sur **Pixel Timer**, une petite application de minuteurs pour les amateurs de thés !
 
